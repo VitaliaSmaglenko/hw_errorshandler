@@ -1,0 +1,15 @@
+Time 2018-12-16 00:41:42
+Error code 512
+Error type Пользовательское предупреждение
+Error massege Один из параметров не является числом, и будет заменен на 1
+Error file C:\OSPanel\domains\errors_func\errors.php
+Line 49
+#0  userErrorHandler(512, Один из параметров не является числом, и будет заменен на 1, C:\OSPanel\domains\errors_func\errors.php, 49, Array ([a] => 10,[b] => 11))
+#1  trigger_error(Один из параметров не является числом, и будет заменен на 1, 512) called at [C:\OSPanel\domains\errors_func\errors.php:49]
+#2  myExample(10, 11) called at [C:\OSPanel\domains\errors_func\errors.php:62]
+#0  userErrorHandler(512, Один из параметров не является числом, и будет заменен на 1, C:\OSPanel\domains\errors_func\errors.php, 49, Array ([a] => 10,[b] => 11))
+#1  trigger_error(Один из параметров не является числом, и будет заменен на 1, 512) called at [C:\OSPanel\domains\errors_func\errors.php:49]
+#2  myExample(10, 11) called at [C:\OSPanel\domains\errors_func\errors.php:62]
+
+
+

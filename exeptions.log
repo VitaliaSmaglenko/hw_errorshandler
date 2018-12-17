@@ -1,0 +1,63 @@
+Time 2018-12-16 01:30:12
+Exception
+Невозможно совершить операцию деления, один из параметров равен нулю
+Stack trace: #0 C:\OSPanel\domains\errors_func\exeptions.php(38): myExample(5, 0)
+#1 {main}
+thrown in C:\OSPanel\domains\errors_func\exeptions.php on line 25
+
+
+
+Time 2018-12-16 01:31:57
+Exception
+Невозможно совершить операцию деления, один из параметров равен нулю
+Stack trace: #0 C:\OSPanel\domains\errors_func\exeptions.php(37): myExample(5, 0)
+#1 {main}
+thrown in C:\OSPanel\domains\errors_func\exeptions.php on line 22
+
+
+
+Time 2018-12-16 01:34:46
+Exception
+Невозможно совершить операцию деления, один из параметров равен нулю
+Stack trace: #0 C:\OSPanel\domains\errors_func\exeptions.php(37): myExample(5, 0)
+#1 {main}
+thrown in C:\OSPanel\domains\errors_func\exeptions.php on line 22
+
+
+
+Time 2018-12-16 01:35:09
+Exception
+Невозможно совершить операцию деления, один из параметров равен нулю
+Stack trace: #0 C:\OSPanel\domains\errors_func\exeptions.php(39): myExample(5, 0)
+#1 {main}
+thrown in C:\OSPanel\domains\errors_func\exeptions.php on line 24
+
+
+
+Time 2018-12-16 01:36:17
+Exception
+Невозможно совершить операцию деления, один из параметров равен нулю
+Stack trace: #0 C:\OSPanel\domains\errors_func\exeptions.php(40): myExample(5, 0)
+#1 {main}
+thrown in C:\OSPanel\domains\errors_func\exeptions.php on line 24
+
+
+
+Time 2018-12-16 01:36:42
+Exception
+Невозможно совершить операцию деления, один из параметров равен нулю
+Stack trace: #0 C:\OSPanel\domains\errors_func\exeptions.php(40): myExample(5, 0)
+#1 {main}
+thrown in C:\OSPanel\domains\errors_func\exeptions.php on line 24
+
+
+
+Time 2018-12-16 02:01:19
+Exception
+Невозможно совершить операцию деления, один из параметров равен нулю
+Stack trace: #0 C:\OSPanel\domains\errors_func\exeptions.php(40): myExample(5, 0)
+#1 {main}
+thrown in C:\OSPanel\domains\errors_func\exeptions.php on line 24
+
+
+
